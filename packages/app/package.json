@@ -1,6 +1,6 @@
 {
   "name": "app",
-  "version": "4.1.2",
+  "version": "4.1.3",
   "description": "> TODO: description",
   "author": "Adam Gajzlerowicz <nelf86@gmail.com>",
   "homepage": "https://github.com/adamgajzlerowicz/lerna_release#readme",
@@ -24,6 +24,6 @@
     "url": "https://github.com/adamgajzlerowicz/lerna_release/issues"
   },
   "dependencies": {
-    "lib": "^2.0.1"
+    "lib": "^2.0.2"
   }
 }
